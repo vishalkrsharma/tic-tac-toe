@@ -1,37 +1,13 @@
 {
   "expo": {
-    "name": "tic-tac-toe",
-    "slug": "tic-tac-toe",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.vishalkrsharma.tictactoe"
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.vishalkrsharma.tictactoe"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
     "extra": {
       "eas": {
-        "projectId": "0f2db527-f115-47c6-b8b1-a03cda27e5ce"
+        "projectId": "f433ec66-04bc-41ef-a716-40255b6c46dd"
       }
+    },
+    "owner": "vishalkrsharma",
+    "android": {
+      "package": "com.vishalkrsharma.tictactoe"
     }
   }
 }
